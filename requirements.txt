@@ -1,0 +1,8 @@
+scikit-fuzzy
+numpy
+matplotlib
+streamlit
+openai
+scipy
+networkx packaging
+python-dotenv
