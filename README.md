@@ -25,12 +25,7 @@ Este projeto implementa um sistema de controle fuzzy para ar-condicionado que aj
 ### Para Windows
 
 1. **Python 3.8 ou superior**
-   - Download: https://www.python.org/downloads/
-   - Durante a instalação, marque "Add Python to PATH"
-
-2. **Git** (opcional, para clonar o repositório)
-   - Download: https://git-scm.com/download/win
-
+  
 ### Para WSL/Linux
 
 1. **Python 3.8 ou superior**
@@ -47,13 +42,6 @@ Este projeto implementa um sistema de controle fuzzy para ar-condicionado que aj
 ## 🚀 Instalação e Configuração
 
 ### 1. Clone ou baixe o repositório
-
-```bash
-git clone https://github.com/EmanuelMarcos99/tp-nebulosos.git
-cd tp-nebulosos
-```
-
-Ou baixe o ZIP e extraia os arquivos.
 
 ### 2. Crie um ambiente virtual
 
